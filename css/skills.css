@@ -118,6 +118,10 @@
   background: linear-gradient(90deg, var(--sub-color) 20%, var(--theme-color) 10%);
 }
 
+.skills__exp-dev--bar.java-bar {
+  background: linear-gradient(90deg, var(--sub-color) 40%, var(--theme-color) 10%);
+}
+
 /* MODALS */
 
 .modal-container {

@@ -27,6 +27,11 @@ const openSql = document.getElementById('open-sql');
 const modal_containerSql = document.getElementById('modal-container-sql');
 const closeSql = document.getElementById('close-sql');
 
+// Java
+const openJava = document.getElementById('open-java');
+const modal_containerJava = document.getElementById('modal-container-java');
+const closeJava = document.getElementById('close-java');
+
 
 
 
@@ -92,4 +97,13 @@ openSql.addEventListener('click', () => {
 
 closeSql.addEventListener('click', () => {
   modal_containerSql.classList.remove('show');
+});
+
+// Java
+openJava.addEventListener('click', () => {
+  modal_containerJava.classList.add('show');
+});
+
+closeJava.addEventListener('click', () => {
+  modal_containerJava.classList.remove('show');
 });
