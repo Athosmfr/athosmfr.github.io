@@ -9,5 +9,5 @@
 .footer-text {
   color: var(--text-color);
   font-size: 16px;
-  font-family: Fira Sans;
+  font-family: 'Fira Sans Condensed', sans-serif;
 }

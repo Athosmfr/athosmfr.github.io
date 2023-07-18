@@ -65,7 +65,7 @@ body {
   left: 10%; */
   font-size: 40px;
   color: var(--theme-color);
-  font-family: Oleo Script;
+  font-family: 'Oleo Script', cursive;
 }
 
 .nav__menu {
@@ -85,7 +85,7 @@ body {
   text-decoration: none;
   color: var(--text-color);
   font-size: 20px;
-  font-family: Fira Sans;
+  font-family: 'Fira Sans Condensed', sans-serif;
   transition: 1s ease;
 }
 

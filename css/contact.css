@@ -1,5 +1,5 @@
 .contact {
-  font-family: Fira Sans;
+  font-family: 'Fira Sans Condensed', sans-serif;
   color: var(--text-color);
 }
 
@@ -111,7 +111,7 @@
   border-radius: 5px;
   border: none;
   outline: none;
-  font-family: Fira Sans;
+  font-family: 'Fira Sans Condensed', sans-serif;
 }
 
 .contact__message-container--text {
@@ -129,7 +129,7 @@
   border-radius: 5px;
   border: none;
   outline: none;
-  font-family: Fira Sans;
+  font-family: 'Fira Sans Condensed', sans-serif;
 }
 
 .contact__message--btn {
@@ -139,7 +139,7 @@
   background-color: transparent;
   color: var(--text-color);
   font-size: 16px;
-  font-family: Fira Sans;
+  font-family: 'Fira Sans Condensed', sans-serif;
   text-transform: uppercase;
   border-radius: 5px;
   cursor: pointer;
