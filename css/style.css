@@ -65,7 +65,7 @@ body {
   left: 10%; */
   font-size: 40px;
   color: var(--theme-color);
-  font-family: 'Oleo Script', cursive;
+  font-family: 'Lobster', cursive;
 }
 
 .nav__menu {
